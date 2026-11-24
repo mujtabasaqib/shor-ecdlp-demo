@@ -23,6 +23,7 @@ python shor_ecdlp_demo.py --skip-loop    # skip the endless loop
 
 ## Related sources
 
+- [Substack Post](https://mujtabasaqib.substack.com/p/quantum-computing-and-cryptographic?r=9cge9x&utm_campaign=post&utm_medium=web)
 - [BIP 361: Post Quantum Migration and Legacy Signature Sunset](https://bitcoin.org/bip/361/)
 - [SHRINCS: compact hash-based signatures (draft)](https://github.com/SHRINCS/shrincs-bip/blob/main/SHRINCS.md)
 - [Post-quantum cryptography on Ethereum](https://ethereum.org/roadmap/security/quantum-resistance/)
